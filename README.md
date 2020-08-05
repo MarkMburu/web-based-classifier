@@ -10,7 +10,7 @@
 [] set up containerization using docker
 
 ### UI
-[] Create the UI which should have
+[] Create the UI which should have<br>
   [] Homepage that contain:
     [] Welcome Message
     [] Three clickable Cards that should have
