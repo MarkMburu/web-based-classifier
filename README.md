@@ -13,7 +13,7 @@
  ## Tasks
  - Train and validate models and develop a machine learning pipeline for deployment.
  - Build a basic HTML front-end with an input file for independent variables.
- - Build a back-end of the web application using a Flask Framework. 
+ - Build a back-end of the web application using a express Framework. 
  - Deploy the web app on Heroku. Once deployed, it will become publicly available and can be accessed via Web URL.
 
  ### Task 1 — Model Training and Validation.
@@ -24,5 +24,5 @@
 
 After implementing our machine learning pipeline and model we will start building a web application that can connect to them and generate predictions on new data in real-time. There are two parts of this application:
 
- - Front-end (designed using React)
- - Back-end (developed using Flask in Python)
+ - Front-end (designed using ht,l5 css3 js)
+ - Back-end (developed using node express)
